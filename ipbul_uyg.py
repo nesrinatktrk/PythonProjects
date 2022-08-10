@@ -1,3 +1,4 @@
+#hatayı anla!!!!
 import socket
 
 def ipBul():
